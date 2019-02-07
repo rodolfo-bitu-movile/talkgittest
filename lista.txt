@@ -1,1 +1,1 @@
-aranha\nsul norte\nmae joana\n
+aranha\nnorte\nmae joana\n
